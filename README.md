@@ -1,3 +1,4 @@
 # tkinter
-a bunch of tkinter widgets</br>
-the shebang should be configured before running scripts
+A bunch of tkinter widgets./br>
+The shebang should be configured before running scripts.</br>
+                         
